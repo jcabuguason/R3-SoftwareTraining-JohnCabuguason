@@ -2,6 +2,10 @@
 Arduino code and Tinkercad Diagrams detailing the creation of simple two motor vehicle robot
 
 
+TinkerCAD Project Link: https://www.tinkercad.com/things/eM7HPvrz6u1
+
+
+
 Following the lab manual I..
 - Implemented differential steering with one motor on each side of the robot
 - Took potentiometer input into an analog pin in the arduino which then determines the value of the pwm instructed to the two motors controlled by the L293D controller
@@ -21,4 +25,3 @@ In addition..
 Some future notes..
 
 - Although the motorPWM is constant and does not vary unless changed by the potentiometer, the RPM value of both motors vary always from around +/- 8, I've thought of adding a capacitor but have not actually tried to implement his. Looking online, the capacitor may be a viable solution.
-
