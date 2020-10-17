@@ -4,6 +4,7 @@ Arduino code and Tinkercad Diagrams detailing the creation of simple two motor v
 
 TinkerCAD Project Link: https://www.tinkercad.com/things/eM7HPvrz6u1
 
+![Project diagram](RamsRoboticsProject1.png)
 
 
 Following the lab manual I..
